@@ -1,2 +1,2 @@
 # second-sun
-OpenComputers Draconic Reactor control
+OpenComputers Draconic Reactor control program
